@@ -1,5 +1,5 @@
 # Vehicle-Agency
-Vehicle agency that hold a local database of various types of vehicles for selling. This project was developed with Java language and the Eclipse IDE.
+Vehicle agency that holds a local database with various types of vehicles for selling. This project was developed with Java language and the Eclipse IDE.
 Some of the principles were implemented in the project are Multithreading, Locks synchronization, Design Patterns , OOP and Interfaces. 
 
 ![](Image/Vehicles_Agency_pic.png)
